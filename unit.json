@@ -9,48 +9,51 @@
       "label": [
         {
           "lang": "de",
-          "value": "Aufgabe allgemein"
+          "value": "Aufgabe"
         }
       ],
       "entries": [
+        {
+          "id": "u2",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Bearbeiter*in"
+            }
+          ],
+          "type": "text",
+          "parameters": {
+            "format": "single"
+          }
+        },
         {
           "id": "w8",
           "label": [
             {
               "lang": "de",
-              "value": "Lese-/Hörstil"
+              "value": "Leitidee"
             }
           ],
           "type": "vocabulary",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": false,
-            "hideNumbering": true
+            "maxLevel": 1
           }
-        }
-      ]
-    },
-    {
-      "label": [
-        {
-          "lang": "de",
-          "value": "Textvorgabe"
-        }
-      ],
-      "entries": [
+        },
         {
           "id": "e2",
           "label": [
             {
               "lang": "de",
-              "value": "Textschwierigkeit allgemein"
+              "value": "Aufgaben-/Stimuluszeit"
             }
           ],
-          "type": "vocabulary",
+          "type": "number",
           "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
+            "minValue": 0,
+            "digits": 0,
+            "isPeriodSeconds": true
           }
         },
         {
@@ -58,137 +61,12 @@
           "label": [
             {
               "lang": "de",
-              "value": "Syntaxkomplexität"
+              "value": "Quellenangaben"
             }
           ],
-          "type": "vocabulary",
+          "type": "text",
           "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
-          }
-        },
-        {
-          "id": "e4",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Textabstraktionsgrad"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
-          }
-        },
-        {
-          "id": "e5",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Textsorte"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": true,
-            "hideNumbering": true
-          }
-        },
-        {
-          "id": "e6",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Thema"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": true,
-            "hideNumbering": true
-          }
-        },
-        {
-          "id": "e7",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Vokabular"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
-          }
-        }
-      ]
-    },
-    {
-      "label": [
-        {
-          "lang": "de",
-          "value": "Hörsequenz"
-        }
-      ],
-      "entries": [
-        {
-          "id": "k2",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Sprecher*innen: Anzahl"
-            }
-          ],
-          "type": "number",
-          "parameters": {
-            "minValue":  1,
-            "digits": 0
-          }
-        },
-        {
-          "id": "k3",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Nebengeräusche"
-            }
-          ],
-          "type": "boolean",
-          "parameters": {
-            "trueLabel": [
-              {
-                "lang": "de",
-                "value": "störend"
-              }
-            ],
-            "falseLabel": [
-              {
-                "lang": "de",
-                "value": "nicht relevant"
-              }
-            ]
-          }
-        },
-        {
-          "id": "k4",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Sprechtempo"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
+            "format": "multiline"
           }
         }
       ]
