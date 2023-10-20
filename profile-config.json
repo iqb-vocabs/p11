@@ -1,0 +1,15 @@
+{
+  "id": "en1fr1",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Metadatenprofile für Testaufgaben: Mathematik Primar"
+    }
+  ],
+  "mdOutDir": "docs",
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "unit.json",
+    "item.json"
+  ]
+}
