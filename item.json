@@ -38,7 +38,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "w3id.org/iqb/v27/mp/",
+            "url": "https://w3id.org/iqb/v27/mp/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }
@@ -68,7 +68,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "w3id.org/iqb/v10/p1/",
+            "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": false
           }
         },
@@ -82,7 +82,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "w3id.org/iqb/v10/p1/",
+            "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": true
           }
         },
@@ -96,7 +96,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "w3id.org/iqb/v10/i1/",
+            "url": "https://w3id.org/iqb/v10/i1/",
             "allowMultipleValues": false
           }
         },
@@ -110,7 +110,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "w3id.org/iqb/v10/i1/",
+            "url": "https://w3id.org/iqb/v10/i1/",
             "allowMultipleValues": true
           }
         },
