@@ -53,7 +53,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v27/mp/",
+            "url": "https://w3id.org/iqb/v10/a1/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }

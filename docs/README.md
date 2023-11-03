@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.json
 | :--- | :---: | :--- | :---: |
 | Itemtyp 3er | [Vokabular](https://w3id.org/iqb/v27/it/) | url: 'https://w3id.org/iqb/v27/it/', Einmalauswahl, verberge Nummerierung | s2 |
 | Itemformat | [Vokabular](https://w3id.org/iqb/v27/mp/) | url: 'https://w3id.org/iqb/v27/mp/', Einmalauswahl, verberge Nummerierung | s3 |
-| Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v27/mp/) | url: 'https://w3id.org/iqb/v27/mp/', Einmalauswahl, verberge Nummerierung | s4 |
+| Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v10/a1/) | url: 'https://w3id.org/iqb/v10/a1/', Einmalauswahl, verberge Nummerierung | s4 |
 | Bildungsstandards prozess primär | [Vokabular](https://w3id.org/iqb/v10/p1/) | url: 'https://w3id.org/iqb/v10/p1/', Einmalauswahl | s5 |
 | Bildungsstandards prozess sekundär | [Vokabular](https://w3id.org/iqb/v10/p1/) | url: 'https://w3id.org/iqb/v10/p1/', Mehrfachauswahl | s6 |
 | Bildungsstandards inhalt primär | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Einmalauswahl | s7 |
