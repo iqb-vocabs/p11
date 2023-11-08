@@ -14,10 +14,10 @@ https://raw.githubusercontent.com/iqb-vocabs/p11/master/unit.json
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Bearbeiter*in | Text |Einzeilig, Sprache(n): de | u2 |
+| Bearbeiter*in | Text |Einzeilig, Sprache(n): de | iqb_author |
 | Leitidee | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Einmalauswahl, Zeige nur erste Ebene | w8 |
-| Aufgaben-/Stimuluszeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | e2 |
-| Quellenangaben | Text |Mehrzeilig, Sprache(n): de | e3 |
+| Aufgaben-/Stimuluszeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
+| Quellenangaben | Text |Mehrzeilig, Sprache(n): de | iqb_copyright |
 ## Profil "IQB Mathematik Primar - Item"
 ```
 https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.json
@@ -32,5 +32,5 @@ https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.json
 | Bildungsstandards prozess sekundär | [Vokabular](https://w3id.org/iqb/v10/p1/) | url: 'https://w3id.org/iqb/v10/p1/', Mehrfachauswahl | s6 |
 | Bildungsstandards inhalt primär | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Einmalauswahl | s7 |
 | Bildungsstandards inhalt sekundär | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Mehrfachauswahl | s8 |
-| Itemzeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | e2 |
+| Itemzeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_item |
 | Schwierigkeit ex ante | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | e4 |
