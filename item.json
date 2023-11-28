@@ -14,21 +14,6 @@
       ],
       "entries": [
         {
-          "id": "s2",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Itemtyp 3er"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v27/it/",
-            "allowMultipleValues": false,
-            "hideNumbering": true
-          }
-        },
-        {
           "id": "s3",
           "label": [
             {
@@ -63,7 +48,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Bildungsstandards prozess primär"
+              "value": "Prozessbezogener Bildungsstandard primär"
             }
           ],
           "type": "vocabulary",
@@ -77,7 +62,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Bildungsstandards prozess sekundär"
+              "value": "Prozessbezogener Bildungsstandard sekundär"
             }
           ],
           "type": "vocabulary",
@@ -91,7 +76,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Bildungsstandards inhalt primär"
+              "value": "Inhaltsbezogener Bildungsstandard primär"
             }
           ],
           "type": "vocabulary",
@@ -105,7 +90,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Bildungsstandards inhalt sekundär"
+              "value": "Inhaltsbezogener Bildungsstandard sekundär"
             }
           ],
           "type": "vocabulary",
@@ -134,7 +119,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Schwierigkeit ex ante"
+              "value": "Geschätzte Schwierigkeit"
             }
           ],
           "type": "vocabulary",

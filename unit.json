@@ -18,7 +18,7 @@
           "label": [
             {
               "lang": "de",
-              "value": "Bearbeiter*in"
+              "value": "Entwickler:in"
             }
           ],
           "type": "text",
@@ -46,7 +46,22 @@
           "label": [
             {
               "lang": "de",
-              "value": "Aufgaben-/Stimuluszeit"
+              "value": "Aufgabenzeit"
+            }
+          ],
+          "type": "number",
+          "parameters": {
+            "minValue": 0,
+            "digits": 0,
+            "isPeriodSeconds": true
+          }
+        },
+        {
+          "id": "iqb_time_stimulus",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Stimuluszeit"
             }
           ],
           "type": "number",
