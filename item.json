@@ -23,7 +23,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v27/ip/",
+            "url": "https://w3id.org/iqb/v27/mp/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }

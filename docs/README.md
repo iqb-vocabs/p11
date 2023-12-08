@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.json
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
-| Itemformat | [Vokabular](https://w3id.org/iqb/v27/ip/) | url: 'https://w3id.org/iqb/v27/ip/', Einmalauswahl, verberge Nummerierung | s3 |
+| Itemformat | [Vokabular](https://w3id.org/iqb/v27/mp/) | url: 'https://w3id.org/iqb/v27/mp/', Einmalauswahl, verberge Nummerierung | s3 |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v10/a1/) | url: 'https://w3id.org/iqb/v10/a1/', Einmalauswahl, verberge Nummerierung | s4 |
 | Inhaltsbezogener Bildungsstandard primär | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Einmalauswahl | s7 |
 | Inhaltsbezogener Bildungsstandard sekundär | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Mehrfachauswahl | s8 |
