@@ -23,7 +23,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/iqb/v27/mp/",
+            "url": "https://w3id.org/iqb/v27/ip/",
             "allowMultipleValues": false,
             "hideNumbering": true
           }
@@ -41,34 +41,6 @@
             "url": "https://w3id.org/iqb/v10/a1/",
             "allowMultipleValues": false,
             "hideNumbering": true
-          }
-        },
-        {
-          "id": "s5",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Prozessbezogener Bildungsstandard primär"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": false
-          }
-        },
-        {
-          "id": "s6",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Prozessbezogener Bildungsstandard sekundär"
-            }
-          ],
-          "type": "vocabulary",
-          "parameters": {
-            "url": "https://w3id.org/iqb/v10/p1/",
-            "allowMultipleValues": true
           }
         },
         {
@@ -96,6 +68,34 @@
           "type": "vocabulary",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/i1/",
+            "allowMultipleValues": true
+          }
+        },
+        {
+          "id": "s5",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Prozessbezogener Bildungsstandard primär"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/p1/",
+            "allowMultipleValues": false
+          }
+        },
+        {
+          "id": "s6",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Prozessbezogener Bildungsstandard sekundär"
+            }
+          ],
+          "type": "vocabulary",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": true
           }
         },
