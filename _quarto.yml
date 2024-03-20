@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: https://iqb-vocabs.github.io/p11/
-  title: "Mathematik Primar"
+  title: "IQB"
   favicon: favicon.ico
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/p11/
@@ -12,7 +12,6 @@ website:
     search: true
     left:
         - href: index.qmd
-          name: IQB
 
 format:
   html:
