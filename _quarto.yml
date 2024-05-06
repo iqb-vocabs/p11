@@ -9,13 +9,15 @@ website:
   navbar:
     logo: IQB-klein.png
     search: true
-    right:
-        - icon: github
-          href: https://github.com/iqb-vocabs/p11
-          aria-label: Source Code
     left:
         - href: index.qmd
           text: "Metadatenprofile für Testaufgaben: Mathematik Primar"
+    right:
+      - icon: github
+        href: https://github.com/iqb-vocabs/p11
+        aria-label: Source Code
+
+lang: de
 
 format:
   html:
