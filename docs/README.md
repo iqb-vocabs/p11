@@ -1,6 +1,4 @@
----
-title: Metadatenprofile für Testaufgaben - Mathematik Primar
----
+# Metadatenprofile für Testaufgaben: Mathematik Primar
 
 ID of profile-store: `map`
 
@@ -10,7 +8,7 @@ Maintainer: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
-# IQB Mathematik Primar - Aufgabe
+## Profil "IQB Mathematik Primar - Aufgabe"
 
 ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p11/master/unit.json`
 
@@ -23,9 +21,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p11/master/unit.jso
 | Stimuluszeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Quellenangaben | Text |Mehrzeilig, Sprache(n): de | iqb_copyright |
 
-: {tbl-colwidths="[15,15,55,15]"}
-
-# IQB Mathematik Primar - Item
+## Profil "IQB Mathematik Primar - Item"
 
 ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.json`
 
@@ -39,6 +35,4 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p11/master/item.jso
 | Prozessbezogener Bildungsstandard sekundär | [Vokabular](https://w3id.org/iqb/v10/p1/) | url: 'https://w3id.org/iqb/v10/p1/', Mehrfachauswahl | s6 |
 | Itemzeit | Zahl |Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_item |
 | Geschätzte Schwierigkeit | [Vokabular](https://w3id.org/iqb/v26/ea/) | url: 'https://w3id.org/iqb/v26/ea/', Einmalauswahl | e4 |
-
-: {tbl-colwidths="[15,15,55,15]"}
 
