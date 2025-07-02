@@ -15,6 +15,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p11/master/unit.jso
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
 | Entwickler:in | Text |Einzeilig, Sprache(n): de | iqb_author |
+| Klassenstufe | [Vokabular](https://w3id.org/openeduhub/vocabs/educationalLevel) | url: 'https://w3id.org/openeduhub/vocabs/educationalLevel', Mehrfachauswahl, Nummerierung unterdrückt | f0 |
 | Für SPF geeignet | Ja/Nein |Text für WAHR: ja, Text für FALSCH: nein | a1 |
 | Kopfhörereinsatz | [Vokabular](https://w3id.org/iqb/v24/kh/) | url: 'https://w3id.org/iqb/v24/kh/', Einmalauswahl, Nummerierung unterdrückt | iqb_phones |
 | Leitidee | [Vokabular](https://w3id.org/iqb/v10/i1/) | url: 'https://w3id.org/iqb/v10/i1/', Einmalauswahl, Zeige nur erste Ebene | w8 |
