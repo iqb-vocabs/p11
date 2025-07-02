@@ -36,7 +36,7 @@
           ],
           "type": "vocabulary",
           "parameters": {
-            "url": "https://w3id.org/openeduhub/vocabs/educationalLevel",
+            "url": "https://w3id.org/openeduhub/vocabs/educationalLevel/",
             "allowMultipleValues": true,
             "hideNumbering": true
           }
